@@ -1,0 +1,15 @@
+Alice,A001,85
+Bob,A002,78
+Charlie,A003,92
+David,A004,88
+Eva,A005,95
+Frank,A006,72
+Grace,A007,80
+Hannah,A008,68
+Ian,A009,90
+Jack,A010,82
+Karen,A011,76
+Leo,A012,87
+Mona,A013,91
+Nina,A014,84
+Oscar,A015,89
